@@ -1,0 +1,29 @@
+1) Graph file:
+../../../../graphs/cocit/adj.txt
+
+2) Output file:
+../../embeddings/cocit_embed.txt
+
+3) Dimension:
+100
+
+4) Walk length:
+10
+
+5) Number of splits:
+1
+
+6) Number of edges per split:
+1000
+
+7) Fit with (choose logistic, ls, svm, or single_best): 
+svm
+
+8) Test (set to 1 to use test graph):
+0
+
+9) Lambda:
+1.0
+
+10) Simplex (set to 1 for simplex constrain):
+1
