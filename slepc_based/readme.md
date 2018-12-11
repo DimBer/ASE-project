@@ -1,6 +1,6 @@
 __DESCRIPTION__
 
-Programm __EMB_slepc__ generates Adaptive-Similarity Node embeddings (see [here](https://arxiv.org/pdf/1811.10797.pdf)). 
+Programm `EMB_slepc` generates __Adaptive-Similarity Node Embeddings__ (see [here](https://arxiv.org/pdf/1811.10797.pdf)). 
 	
 
 __INPUT FILES FORMAT__

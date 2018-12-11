@@ -1,6 +1,6 @@
 __OVERVIEW__
 
-Implementations of Adaptive-similarity node embedding method  (see [here](https://arxiv.org/pdf/1811.10797.pdf)) 
+Implementations of the __Adaptive-similarity Node Embedding__ method  (see [here](https://arxiv.org/pdf/1811.10797.pdf)) 
 
 1) ``portable/`` : Basic implementation with no dependencies (expept basic cblas routines). 
 
