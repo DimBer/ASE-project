@@ -1,6 +1,6 @@
 __DESCRIPTION__
 
-Programm __EMB_min__ generates Adaptive-Similarity Node embeddings.
+Programm __EMB_min__ generates Adaptive-Similarity Node embeddings (see [here](https://arxiv.org/pdf/1811.10797.pdf)).
 	
 
 __INPUT FILES FORMAT__
