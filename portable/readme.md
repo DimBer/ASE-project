@@ -36,6 +36,9 @@ ARGUMENT | TYPE | DEFAULT VALUE
 `--edges_per_split` | Number of positive edges removed at every split | `1000`     
 `--fit_with` | Select model according to which proximity parameters are learnt: 1) Logistic regression (`logistic`), 2) Least squares (`ls`), 3) SVMs `svm`, 4) Chose single best proximity/walk-length (`single best`)  | `single_best`
 
+*Default values can be changed by editing `include/emb_defs.h`
+
+
 Command line optional arguments without values:
 
 ARGUMENT | RESULT
